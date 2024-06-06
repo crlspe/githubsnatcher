@@ -10,7 +10,7 @@
 ## Usage
 1. **Install GitHubSnatcher**
 ```sh
-go install https://github.com/crlspe/githubsnatcher
+go install github.com/crlspe/githubsnatcher@latest
 ```
 2. **Run the command** with the desired repository URL and folder path
 3. **Enjoy quick and hassle-free downloads!**
