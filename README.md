@@ -16,5 +16,6 @@ go install https://github.com/crlspe/githubsnatcher
 3. **Enjoy quick and hassle-free downloads!**
 
 ## Example usage command
+```sh
 githubsnatcher https://github.com/<user>/<repo>/tree/master/<folder/path>
-
+```
