@@ -9,16 +9,12 @@
 
 ## Usage
 1. **Install GitHubSnatcher**
+```sh
+go install https://github.com/crlspe/githubsnatcher
+```
 2. **Run the command** with the desired repository URL and folder path
 3. **Enjoy quick and hassle-free downloads!**
 
-## Installation
-
-```sh
-# Installation command
-go install https://github.com/crlspe/githubsnatcher
-
-
-# Example usage command
+## Example usage command
 githubsnatcher https://github.com/<user>/<repo>/tree/master/<folder/path>
 
